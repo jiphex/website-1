@@ -70,7 +70,7 @@ users migrate to Flux v2.
 Now is the perfect time to familiarise yourself with [Flux
 v2](https://fluxcd.io) - the Get Started guide only takes a
 couple of minutes to complete. If you prefer a video, check out
-[our resources section](https://fluxcd.io/#resources).
+[our resources section](/resources).
 
 Migrating from v1 will require some work, but it will definitely be
 worth it: in this iteration you are going to get
@@ -107,6 +107,5 @@ Check out the following upcoming events
 > 19 Apr 2021 - [Setting up Notifications, Alerts, & Webhook with Flux
 > v2 by Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
 
-Or dive straight into
-our [Get Started guide](https://toolkit.fluxcd.io/get-started/)
+Or dive straight into our [Get Started guide](/docs/get-started/)
 to get started with the next generation of Flux today.
